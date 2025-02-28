@@ -1,0 +1,2 @@
+PowerShell.exe -Command Invoke-WebRequest -Uri https://examplefile.com/file-download/19 -OutFile data1.txt
+PowerShell.exe -Command Invoke-WebRequest -Uri https://examplefile.com/file-download/21 -OutFile data2.txt
